@@ -10,4 +10,6 @@ def count_substring(string, sub_string):
 
 if __name__ == '__main__':
     print(count_substring("CDCCDC","CDC"))
+	
+#my final test
     
